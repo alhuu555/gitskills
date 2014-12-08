@@ -1,2 +1,3 @@
 Creating a new branch is quick and simple.
-add merge -fixed 101
+add merge
+stash study
